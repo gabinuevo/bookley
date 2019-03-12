@@ -15,7 +15,7 @@
     "jsonschema": "^1.2.4",
     "locus": "^2.0.1",
     "pg": "^7.5.0",
-    "supertest": "^3.3.0"
+    "supertest": "^3.4.2"
   },
   "repository": {
     "type": "git",
