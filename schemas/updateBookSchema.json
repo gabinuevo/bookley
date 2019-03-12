@@ -4,16 +4,6 @@
     "$id": "http://example.com/root.json",
     "type": "object",
     "title": "The Root Schema",
-    "required": [
-      "isbn",
-      "amazon-url",
-      "author",
-      "language",
-      "pages",
-      "publisher",
-      "title",
-      "year"
-    ],
     "properties": {
       "isbn": {
         "$id": "#/properties/isbn",
